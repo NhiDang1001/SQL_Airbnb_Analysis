@@ -1,0 +1,1001 @@
+uid,date_account_created,date_first_booking,gender,age,signup_method,language,first_device_type,first_browser,country_destination
+1,2010-06-28,NULL,-unknown-,NULL,facebook,en,"Mac Desktop",Chrome,NDF
+2,2011-05-25,NULL,MALE,38,facebook,en,"Mac Desktop",Chrome,NDF
+3,2010-09-28,2010-08-02,FEMALE,56,basic,en,"Windows Desktop",IE,US
+4,2011-12-05,2012-09-08,FEMALE,42,facebook,en,"Mac Desktop",Firefox,other
+5,2010-09-14,2010-02-18,-unknown-,41,basic,en,"Mac Desktop",Chrome,US
+6,2010-01-01,2010-01-02,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+7,2010-01-02,2010-01-05,FEMALE,46,basic,en,"Mac Desktop",Safari,US
+8,2010-01-03,2010-01-13,FEMALE,47,basic,en,"Mac Desktop",Safari,US
+9,2010-01-04,2010-07-29,FEMALE,50,basic,en,"Mac Desktop",Safari,US
+10,2010-01-04,2010-01-04,-unknown-,46,basic,en,"Mac Desktop",Firefox,US
+11,2010-01-04,2010-01-06,FEMALE,36,basic,en,"Mac Desktop",Firefox,US
+12,2010-01-05,NULL,FEMALE,47,basic,en,iPhone,-unknown-,NDF
+13,2010-01-05,2010-01-18,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,FR
+14,2010-01-05,NULL,FEMALE,37,basic,en,"Mac Desktop",Firefox,NDF
+15,2010-01-07,NULL,FEMALE,36,basic,en,iPhone,"Mobile Safari",NDF
+16,2010-01-07,2010-01-08,FEMALE,33,basic,en,"Windows Desktop",Chrome,CA
+17,2010-01-07,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+18,2010-01-07,2010-01-09,-unknown-,31,basic,en,Other/Unknown,-unknown-,US
+19,2010-01-08,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+20,2010-01-10,2010-01-10,FEMALE,29,basic,en,"Mac Desktop",Chrome,FR
+21,2010-01-10,2010-01-18,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+22,2010-01-10,2010-01-11,MALE,30,basic,en,"Mac Desktop",Chrome,US
+23,2010-01-11,2010-01-11,-unknown-,40,basic,en,iPhone,-unknown-,US
+24,2010-01-11,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+25,2010-01-11,NULL,FEMALE,40,basic,en,"Mac Desktop",Firefox,NDF
+26,2010-01-12,2010-01-15,FEMALE,26,basic,en,"Mac Desktop",Chrome,FR
+27,2010-01-12,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+28,2010-01-12,2010-01-22,FEMALE,32,basic,en,"Desktop (Other)",Chrome,US
+29,2010-01-13,2010-01-13,-unknown-,35,basic,en,Other/Unknown,-unknown-,FR
+30,2010-01-13,2010-01-19,-unknown-,37,basic,en,"Android Tablet",-unknown-,US
+31,2010-01-14,2010-01-24,-unknown-,42,basic,en,"Mac Desktop",Firefox,FR
+32,2010-01-14,NULL,MALE,31,basic,en,Other/Unknown,-unknown-,NDF
+33,2010-01-14,NULL,-unknown-,31,basic,en,Other/Unknown,-unknown-,NDF
+34,2010-01-14,NULL,MALE,29,basic,en,Other/Unknown,-unknown-,NDF
+35,2010-01-15,NULL,MALE,59,basic,en,"Windows Desktop",Chrome,NDF
+36,2010-01-15,NULL,-unknown-,49,basic,en,Other/Unknown,-unknown-,NDF
+37,2010-01-15,2010-01-15,FEMALE,31,basic,en,"Mac Desktop",Safari,US
+38,2010-01-15,NULL,MALE,30,basic,en,"Windows Desktop",Chrome,NDF
+39,2010-01-15,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,NDF
+40,2010-01-16,NULL,FEMALE,35,basic,en,"Mac Desktop",Safari,NDF
+41,2010-01-16,NULL,MALE,26,basic,en,"Windows Desktop",Firefox,NDF
+42,2010-01-19,2010-01-21,FEMALE,30,basic,en,"Mac Desktop",Chrome,US
+43,2010-01-21,NULL,FEMALE,29,basic,en,Other/Unknown,-unknown-,NDF
+44,2010-01-21,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+45,2010-12-01,2010-12-03,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,GB
+46,2010-01-23,2010-01-27,FEMALE,44,basic,en,"Windows Desktop",IE,US
+47,2010-01-24,2010-02-25,-unknown-,NULL,basic,en,"Mac Desktop",Safari,ES
+48,2010-01-24,2010-01-24,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+49,2010-01-24,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+50,2010-01-24,2010-01-25,-unknown-,34,basic,en,Other/Unknown,-unknown-,US
+51,2010-01-25,NULL,-unknown-,30,basic,en,Other/Unknown,-unknown-,NDF
+52,2010-01-25,2010-01-26,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+53,2010-01-25,2010-01-26,-unknown-,33,basic,en,iPad,"Mobile Safari",US
+54,2010-01-26,NULL,MALE,28,basic,en,"Windows Desktop",Chrome,NDF
+55,2010-01-26,2010-01-27,-unknown-,44,basic,en,"Mac Desktop",Firefox,US
+56,2010-01-26,2010-07-30,-unknown-,19,basic,en,iPad,"Mobile Safari",US
+57,2010-01-27,NULL,FEMALE,53,basic,en,"Android Tablet",Chrome,NDF
+58,2010-01-27,2010-01-28,-unknown-,NULL,basic,en,"Android Tablet",Chrome,CA
+59,2010-01-27,2010-01-27,MALE,52,basic,en,"Windows Desktop",Firefox,US
+60,2010-01-28,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+61,2010-01-29,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+62,2010-01-29,NULL,MALE,39,basic,en,iPhone,"Mobile Safari",NDF
+63,2010-01-29,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+64,2010-01-29,2010-01-29,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,CA
+65,2010-01-30,2010-01-31,MALE,35,basic,en,"Windows Desktop",IE,CA
+66,2010-01-30,NULL,FEMALE,40,basic,en,"Mac Desktop",Safari,NDF
+67,2010-01-31,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+68,2010-02-01,2010-02-02,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+69,2010-02-01,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+70,2010-02-01,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+71,2010-02-02,2010-02-02,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+72,2010-02-02,NULL,FEMALE,31,basic,en,"Mac Desktop",Safari,NDF
+73,2010-02-02,NULL,-unknown-,29,basic,en,"Mac Desktop",Safari,NDF
+74,2010-02-02,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+75,2010-02-02,2010-02-09,FEMALE,57,basic,en,"Windows Desktop",Firefox,FR
+76,2010-02-03,2010-02-04,FEMALE,30,basic,en,"Mac Desktop",Chrome,US
+77,2010-02-03,2010-08-12,-unknown-,49,basic,en,"Mac Desktop",Chrome,US
+78,2010-02-04,NULL,FEMALE,37,basic,en,"Mac Desktop",Safari,NDF
+79,2010-02-04,2010-03-20,-unknown-,NULL,basic,en,iPhone,-unknown-,GB
+80,2010-02-06,NULL,-unknown-,26,basic,en,iPhone,"Mobile Safari",NDF
+81,2010-02-06,2010-02-06,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,other
+82,2010-02-06,2010-02-10,FEMALE,36,basic,en,iPhone,-unknown-,US
+83,2010-02-06,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+84,2010-02-06,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+85,2010-02-07,2010-02-07,FEMALE,32,basic,en,"Windows Desktop",Chrome,US
+86,2010-02-07,2010-06-01,MALE,33,basic,en,"Mac Desktop",Firefox,US
+87,2010-02-08,2010-02-11,FEMALE,46,facebook,en,"Windows Desktop",IE,US
+88,2010-02-08,2010-02-26,FEMALE,40,basic,en,"Mac Desktop",Firefox,IT
+89,2010-02-09,NULL,MALE,25,facebook,en,"Mac Desktop",Chrome,NDF
+90,2010-02-09,NULL,MALE,25,facebook,en,"Mac Desktop",Chrome,NDF
+91,2010-02-09,2010-02-20,-unknown-,54,basic,en,"Mac Desktop",Safari,FR
+92,2010-02-09,2010-02-10,-unknown-,32,facebook,en,"Mac Desktop",Chrome,US
+93,2010-02-10,2010-03-19,-unknown-,NULL,basic,en,"Mac Desktop",Safari,FR
+94,2010-02-10,2010-08-25,-unknown-,28,basic,en,"Windows Desktop",Chrome,US
+95,2010-02-10,2010-02-12,FEMALE,57,basic,en,"Mac Desktop",Firefox,US
+96,2010-02-10,2010-02-13,FEMALE,47,basic,en,"Windows Desktop",IE,US
+97,2010-02-10,2010-07-16,MALE,34,basic,en,"Windows Desktop",Chrome,US
+98,2010-02-11,2010-02-13,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+99,2010-02-11,NULL,-unknown-,35,basic,en,Other/Unknown,-unknown-,NDF
+100,2010-02-11,NULL,-unknown-,32,basic,en,"Windows Desktop",Chrome,NDF
+101,2010-02-12,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+102,2010-02-12,NULL,-unknown-,34,basic,en,"Mac Desktop",Safari,NDF
+103,2010-02-12,2010-02-21,OTHER,40,basic,en,"Mac Desktop",Chrome,ES
+104,2010-02-13,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,NDF
+105,2010-02-13,2010-02-13,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,US
+106,2010-02-13,2010-03-22,FEMALE,69,basic,en,"Mac Desktop",Firefox,US
+107,2010-02-14,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+108,2010-02-15,2010-02-15,FEMALE,30,basic,en,"Windows Desktop",Chrome,FR
+109,2010-02-15,NULL,FEMALE,42,facebook,en,"Windows Desktop",IE,NDF
+110,2010-02-15,NULL,FEMALE,63,basic,en,iPad,-unknown-,NDF
+111,2010-02-15,2010-02-16,-unknown-,NULL,facebook,en,"Windows Desktop",Chrome,CA
+112,2010-02-15,2010-12-12,-unknown-,33,basic,en,Other/Unknown,-unknown-,US
+113,2010-02-16,2010-02-16,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+114,2010-02-16,2010-02-16,-unknown-,NULL,basic,en,iPad,"Mobile Safari",US
+115,2010-02-16,NULL,MALE,44,basic,en,Other/Unknown,-unknown-,NDF
+116,2010-02-16,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+117,2010-02-16,NULL,FEMALE,26,basic,en,Other/Unknown,-unknown-,NDF
+118,2010-02-16,2010-02-21,FEMALE,29,basic,en,"Mac Desktop",Chrome,FR
+119,2010-02-17,2010-02-17,FEMALE,43,basic,en,"Windows Desktop",Chrome,US
+120,2010-02-17,NULL,-unknown-,30,basic,en,Other/Unknown,-unknown-,NDF
+121,2010-05-30,2010-03-17,FEMALE,NULL,facebook,en,"Mac Desktop",Safari,US
+122,2010-02-18,2010-02-18,-unknown-,36,basic,en,"Mac Desktop",Safari,US
+123,2010-02-18,NULL,-unknown-,26,basic,en,Other/Unknown,-unknown-,NDF
+124,2010-02-19,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+125,2010-02-19,2010-02-21,FEMALE,33,facebook,en,"Windows Desktop",Firefox,US
+126,2010-02-19,NULL,FEMALE,42,facebook,en,"Mac Desktop",Chrome,NDF
+127,2010-02-19,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,NDF
+128,2010-02-20,NULL,FEMALE,36,facebook,en,iPad,"Mobile Safari",NDF
+129,2010-02-20,2010-02-28,MALE,39,basic,en,"Mac Desktop",Chrome,US
+130,2010-02-20,2011-02-11,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,other
+131,2010-02-21,2010-06-28,-unknown-,47,basic,en,Other/Unknown,-unknown-,US
+132,2010-02-21,2010-02-22,FEMALE,52,basic,en,"Mac Desktop",Firefox,IT
+133,2010-02-21,NULL,-unknown-,59,basic,en,Other/Unknown,-unknown-,NDF
+134,2010-02-22,NULL,-unknown-,53,basic,en,Other/Unknown,-unknown-,NDF
+135,2010-02-22,2010-02-22,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,US
+136,2010-02-22,2010-03-04,-unknown-,25,basic,en,Other/Unknown,-unknown-,US
+137,2010-02-22,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+138,2010-02-22,2010-02-23,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+139,2010-02-23,NULL,MALE,55,basic,en,"Android Phone","Chrome Mobile",NDF
+140,2010-02-23,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+141,2010-02-23,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+142,2010-02-23,2010-02-25,MALE,36,facebook,en,"Windows Desktop",Chrome,CA
+143,2010-02-24,2010-02-24,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,GB
+144,2010-02-24,NULL,-unknown-,35,basic,en,Other/Unknown,-unknown-,NDF
+145,2010-02-24,2010-02-25,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+146,2010-02-24,2010-03-08,-unknown-,65,basic,en,Other/Unknown,-unknown-,US
+147,2010-02-24,2010-02-24,FEMALE,33,basic,en,"Mac Desktop",Safari,GB
+148,2010-02-24,2010-02-24,MALE,38,facebook,en,"Mac Desktop",Safari,US
+149,2010-02-24,2010-03-27,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+150,2010-02-24,2010-02-28,-unknown-,41,basic,en,Other/Unknown,-unknown-,FR
+151,2010-02-25,NULL,FEMALE,29,basic,en,"Windows Desktop",Chrome,NDF
+152,2010-02-25,2010-02-26,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+153,2010-02-25,2010-02-26,-unknown-,32,basic,en,iPhone,"Mobile Safari",US
+154,2010-02-25,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+155,2010-02-26,2010-02-27,-unknown-,28,basic,en,"Mac Desktop",Chrome,US
+156,2010-02-26,2010-03-12,FEMALE,46,basic,en,"Mac Desktop",Firefox,US
+157,2010-02-26,NULL,-unknown-,35,basic,en,Other/Unknown,-unknown-,NDF
+158,2010-02-27,NULL,FEMALE,35,facebook,en,"Mac Desktop",Firefox,NDF
+159,2010-02-27,NULL,-unknown-,34,basic,en,"Mac Desktop",Safari,NDF
+160,2010-02-27,2010-02-28,FEMALE,63,facebook,en,"Windows Desktop",Firefox,US
+161,2010-02-27,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+162,2010-02-27,2010-03-01,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,FR
+163,2010-02-27,2010-03-01,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,US
+164,2010-02-28,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+165,2010-02-28,NULL,MALE,58,facebook,en,"Windows Desktop",Firefox,NDF
+166,2010-02-28,2010-03-02,-unknown-,57,basic,en,"Mac Desktop",Safari,US
+167,2010-02-28,NULL,-unknown-,61,facebook,en,Other/Unknown,-unknown-,NDF
+168,2010-02-28,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+169,2010-02-28,NULL,FEMALE,NULL,basic,en,"Mac Desktop",Safari,NDF
+170,2010-02-28,NULL,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,NDF
+171,2010-03-01,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+172,2010-03-01,2010-03-03,FEMALE,35,basic,en,"Mac Desktop",Chrome,US
+173,2010-03-01,2010-03-02,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+174,2010-03-01,2010-03-03,MALE,31,facebook,en,Other/Unknown,-unknown-,IT
+175,2010-03-01,NULL,-unknown-,36,basic,en,"Windows Desktop",Firefox,NDF
+176,2010-03-02,2010-03-02,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+177,2010-03-02,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+178,2010-03-02,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+179,2010-03-02,2010-03-05,-unknown-,18,basic,en,iPad,"Mobile Safari",US
+180,2010-03-03,2010-03-03,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+181,2010-03-03,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+182,2010-03-03,2010-03-03,MALE,35,basic,en,"Mac Desktop",Chrome,US
+183,2010-03-03,2010-03-06,MALE,36,basic,en,"Windows Desktop",Chrome,US
+184,2010-03-04,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+185,2010-03-04,2010-03-05,FEMALE,37,basic,en,"Mac Desktop",Safari,US
+186,2010-03-05,NULL,MALE,35,basic,en,"Mac Desktop",Safari,NDF
+187,2010-03-05,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+188,2010-03-05,2010-03-08,-unknown-,42,basic,en,"Windows Desktop",Chrome,US
+189,2010-03-05,2010-04-18,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,ES
+190,2010-03-06,2010-03-15,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+191,2010-03-06,NULL,FEMALE,33,basic,en,"Mac Desktop",Chrome,NDF
+192,2010-03-06,2010-03-07,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+193,2010-03-06,2010-03-10,-unknown-,NULL,basic,fr,"Mac Desktop",Safari,US
+194,2010-03-06,2010-03-08,FEMALE,5,basic,en,Other/Unknown,-unknown-,FR
+195,2010-03-07,2010-03-08,-unknown-,NULL,basic,en,iPad,"Mobile Safari",other
+196,2010-03-07,2010-03-12,-unknown-,18,basic,en,"Windows Desktop",Chrome,US
+197,2010-03-07,2010-03-07,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+198,2010-03-08,2010-03-22,-unknown-,33,basic,en,"Mac Desktop",Safari,FR
+199,2010-03-08,NULL,FEMALE,NULL,basic,en,iPad,"Mobile Safari",NDF
+200,2010-03-08,2010-04-15,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+201,2010-03-08,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+202,2010-03-08,2010-03-08,MALE,33,basic,en,"Mac Desktop",Safari,US
+203,2010-03-08,NULL,-unknown-,27,basic,en,Other/Unknown,-unknown-,NDF
+204,2010-03-16,2010-04-06,FEMALE,44,basic,en,"Mac Desktop",Safari,US
+205,2010-03-09,NULL,FEMALE,44,facebook,en,"Desktop (Other)",Firefox,NDF
+206,2010-03-10,NULL,-unknown-,53,basic,en,"Windows Desktop",Firefox,NDF
+207,2010-03-10,2010-03-10,FEMALE,35,basic,en,"Mac Desktop",Chrome,US
+208,2010-03-10,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+209,2010-03-10,2010-03-22,-unknown-,47,basic,en,Other/Unknown,-unknown-,US
+210,2010-03-10,2010-03-10,-unknown-,40,basic,en,"Mac Desktop",Safari,US
+211,2010-03-10,2010-03-12,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,other
+212,2010-03-10,NULL,FEMALE,30,basic,en,"Mac Desktop",Firefox,NDF
+213,2010-03-11,2010-03-14,FEMALE,39,basic,en,"Mac Desktop",Firefox,US
+214,2010-03-11,2010-03-11,FEMALE,45,basic,en,"Mac Desktop",Safari,US
+215,2010-03-11,NULL,-unknown-,54,basic,en,Other/Unknown,-unknown-,NDF
+216,2010-03-11,2010-03-13,MALE,25,basic,en,"Mac Desktop",Chrome,FR
+217,2010-03-11,NULL,FEMALE,38,facebook,en,"Windows Desktop",Chrome,NDF
+218,2010-03-11,NULL,FEMALE,47,facebook,en,"Windows Desktop",IE,NDF
+219,2010-03-12,2010-03-12,FEMALE,57,basic,en,"Mac Desktop",Chrome,US
+220,2010-03-12,NULL,MALE,32,facebook,en,"Mac Desktop",Chrome,NDF
+221,2010-03-12,2010-03-19,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+222,2010-03-13,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+223,2010-03-13,2010-03-19,-unknown-,43,basic,en,iPad,"Mobile Safari",US
+224,2010-03-13,NULL,-unknown-,33,basic,en,Other/Unknown,-unknown-,NDF
+225,2010-03-13,2010-03-14,MALE,60,facebook,en,"Mac Desktop",RockMelt,US
+226,2010-03-13,2010-03-15,FEMALE,29,basic,en,"Mac Desktop",Chrome,US
+227,2010-03-14,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+228,2010-03-14,2010-03-14,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+229,2010-03-14,2010-03-15,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+230,2010-03-14,2010-03-15,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,US
+231,2010-03-14,2010-03-15,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+232,2010-03-14,2010-03-29,FEMALE,32,basic,en,"Windows Desktop",Chrome,US
+233,2010-03-14,2010-03-17,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,FR
+234,2010-03-14,2010-03-15,MALE,43,facebook,en,"Desktop (Other)",Chromium,US
+235,2010-03-15,2010-03-16,FEMALE,30,basic,en,"Mac Desktop",Chrome,US
+236,2010-03-15,2010-03-15,FEMALE,29,basic,en,"Mac Desktop",Safari,US
+237,2010-03-15,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+238,2010-03-15,2010-04-20,FEMALE,42,basic,en,"Mac Desktop",Firefox,US
+239,2010-03-15,2010-03-16,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+240,2010-03-15,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+241,2010-03-15,2010-04-12,-unknown-,34,basic,en,"Mac Desktop",Chrome,US
+242,2010-03-15,2010-03-16,-unknown-,19,basic,en,"Mac Desktop",Firefox,US
+243,2010-03-15,2010-03-15,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+244,2010-03-16,2010-03-19,-unknown-,32,basic,en,Other/Unknown,-unknown-,US
+245,2010-03-16,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+246,2010-03-16,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+247,2010-03-16,2010-03-16,-unknown-,32,basic,en,"Mac Desktop",Chrome,US
+248,2010-03-16,2010-03-17,FEMALE,30,facebook,en,Other/Unknown,-unknown-,US
+249,2010-03-16,2010-03-29,MALE,44,basic,en,"Mac Desktop",Chrome,US
+250,2010-03-16,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+251,2010-03-16,NULL,-unknown-,47,basic,en,Other/Unknown,-unknown-,NDF
+252,2010-03-18,2010-03-19,-unknown-,NULL,basic,en,"Windows Desktop",IE,FR
+253,2010-03-18,2010-05-21,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,US
+254,2010-03-18,2010-03-18,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+255,2010-03-18,NULL,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,NDF
+256,2010-03-18,2010-03-19,MALE,48,basic,en,"Windows Desktop",Chrome,US
+257,2010-03-18,NULL,FEMALE,42,facebook,en,"Mac Desktop",Safari,NDF
+258,2010-03-18,NULL,FEMALE,59,facebook,en,"Windows Desktop",IE,NDF
+259,2010-03-18,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,NDF
+260,2010-03-18,2010-03-20,MALE,32,facebook,en,"Mac Desktop",Chrome,US
+261,2010-03-18,NULL,FEMALE,32,basic,en,"Mac Desktop",Firefox,NDF
+262,2010-03-19,2010-03-26,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+263,2010-03-19,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+264,2010-03-19,2010-03-19,MALE,51,basic,en,"Windows Desktop",Firefox,US
+265,2010-03-19,2010-03-25,MALE,45,basic,en,"Mac Desktop",Chrome,US
+266,2010-03-19,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+267,2010-03-19,2010-03-28,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,US
+268,2010-03-19,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+269,2010-03-19,2010-03-21,-unknown-,52,basic,en,iPad,"Mobile Safari",US
+270,2010-03-19,2010-03-19,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+271,2010-03-19,2010-04-10,-unknown-,47,basic,en,"Windows Desktop",IE,US
+272,2010-03-19,2010-03-25,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+273,2010-03-20,2010-03-20,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,US
+274,2010-03-20,2010-03-23,-unknown-,38,basic,en,"Mac Desktop",Safari,FR
+275,2010-03-20,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+276,2010-03-20,2011-03-06,MALE,36,basic,en,"Mac Desktop",Chrome,US
+277,2010-03-20,NULL,FEMALE,46,basic,en,"Mac Desktop",Safari,NDF
+278,2010-03-20,2010-03-21,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,CA
+279,2010-03-20,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+280,2010-03-20,NULL,MALE,51,basic,en,"Windows Desktop",IE,NDF
+281,2010-03-21,2010-03-21,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,US
+282,2010-03-21,NULL,MALE,31,basic,de,iPhone,-unknown-,NDF
+283,2010-03-22,NULL,-unknown-,NULL,basic,en,iPad,-unknown-,NDF
+284,2010-03-22,2010-03-22,-unknown-,NULL,basic,en,iPad,"Mobile Safari",US
+285,2010-03-22,2010-03-22,FEMALE,57,basic,en,"Mac Desktop",Firefox,US
+286,2010-03-22,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+287,2010-03-22,2010-03-22,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+288,2010-03-23,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+289,2010-03-23,2010-12-11,FEMALE,NULL,basic,en,"Windows Desktop",Chrome,PT
+290,2010-03-23,2010-04-09,FEMALE,31,basic,en,"Mac Desktop",Chrome,other
+291,2010-03-23,2010-03-24,MALE,39,basic,en,Other/Unknown,-unknown-,US
+292,2010-03-23,2010-03-25,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+293,2010-03-23,2010-03-24,FEMALE,61,facebook,en,"Mac Desktop",Safari,US
+294,2010-03-24,2010-04-02,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+295,2010-03-24,2010-03-25,MALE,64,basic,en,"Windows Desktop",IE,US
+296,2010-03-24,2010-03-24,MALE,35,facebook,en,"Mac Desktop",Chrome,US
+297,2010-03-25,2010-03-26,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+298,2010-03-25,2010-03-25,-unknown-,NULL,basic,en,"Windows Desktop",IE,US
+299,2010-03-25,2010-03-26,-unknown-,39,basic,en,"Mac Desktop",Safari,US
+300,2010-03-25,2010-03-25,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,US
+301,2010-03-25,NULL,-unknown-,72,basic,en,Other/Unknown,-unknown-,NDF
+302,2010-03-25,2010-04-17,MALE,70,facebook,en,"Mac Desktop",Chrome,US
+303,2010-03-25,2010-03-26,-unknown-,NULL,basic,en,iPhone,-unknown-,US
+304,2010-03-25,2010-04-12,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+305,2010-03-25,NULL,FEMALE,45,basic,en,"Mac Desktop",Safari,NDF
+306,2010-03-26,2010-03-26,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+307,2010-03-26,NULL,-unknown-,42,basic,en,"Mac Desktop",Safari,NDF
+308,2010-03-26,2010-07-24,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+309,2010-03-26,2010-03-31,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,FR
+310,2010-03-26,2010-04-02,FEMALE,28,basic,en,"Windows Desktop",IE,US
+311,2010-03-27,2010-08-13,MALE,52,basic,en,"Mac Desktop",Safari,US
+312,2010-03-27,NULL,MALE,37,facebook,en,"Windows Desktop",Chrome,NDF
+313,2010-03-27,2010-03-27,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,US
+314,2010-03-27,2010-03-27,-unknown-,29,basic,en,"Mac Desktop",Chrome,US
+315,2010-03-28,2010-03-28,MALE,70,facebook,en,"Windows Desktop",Chrome,US
+316,2010-03-28,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+317,2010-03-29,2010-03-29,FEMALE,67,basic,en,"Mac Desktop",Firefox,US
+318,2010-03-29,2010-03-29,MALE,46,basic,en,"Mac Desktop",Chrome,US
+319,2010-03-29,2010-04-02,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,FR
+320,2010-03-29,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,NDF
+321,2010-03-29,2010-03-30,-unknown-,38,basic,en,"Mac Desktop",Chrome,US
+322,2010-03-30,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+323,2010-03-30,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+324,2010-03-30,2010-03-31,FEMALE,55,basic,en,"Mac Desktop",Firefox,US
+325,2010-03-30,2010-03-31,FEMALE,30,basic,en,"Mac Desktop",Chrome,US
+326,2010-03-30,2010-04-03,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,US
+327,2010-03-30,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+328,2010-03-31,2010-04-02,-unknown-,37,basic,en,"Mac Desktop",Firefox,US
+329,2010-03-31,2010-03-31,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+330,2010-03-31,2010-04-01,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,US
+331,2010-03-31,NULL,-unknown-,43,basic,en,Other/Unknown,-unknown-,NDF
+332,2010-03-31,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+333,2010-03-31,NULL,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,NDF
+334,2010-04-01,2010-04-01,MALE,52,basic,en,"Mac Desktop",Safari,US
+335,2010-04-02,NULL,MALE,NULL,basic,en,"Mac Desktop",Chrome,NDF
+336,2010-04-02,NULL,FEMALE,42,facebook,en,"Windows Desktop",Chrome,NDF
+337,2010-04-02,2010-06-21,-unknown-,31,basic,en,"Windows Desktop",Chrome,ES
+338,2010-04-02,NULL,FEMALE,18,basic,en,"Mac Desktop",Firefox,NDF
+339,2010-04-02,2010-04-04,FEMALE,31,basic,en,"Mac Desktop",Chrome,US
+340,2010-04-02,NULL,-unknown-,34,basic,en,Other/Unknown,-unknown-,NDF
+341,2010-04-03,NULL,-unknown-,32,basic,en,"Mac Desktop",Safari,NDF
+342,2010-04-03,2010-04-07,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+343,2010-04-03,2010-04-03,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,US
+344,2010-04-03,2010-04-07,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+345,2010-04-03,2010-04-05,FEMALE,41,basic,en,"Mac Desktop",Safari,US
+346,2010-04-03,2010-04-03,MALE,29,basic,en,"Mac Desktop",Safari,US
+347,2010-04-04,2010-04-06,FEMALE,34,basic,en,"Mac Desktop",Safari,US
+348,2010-04-04,2010-04-05,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+349,2010-04-04,2010-04-05,FEMALE,54,basic,en,"Android Phone","Android Browser",US
+350,2010-04-04,2010-04-04,-unknown-,NULL,facebook,en,"Mac Desktop",Safari,US
+351,2010-04-04,2010-04-12,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+352,2010-04-05,NULL,MALE,34,facebook,en,"Windows Desktop",Chrome,NDF
+353,2010-04-05,NULL,MALE,70,facebook,en,"Mac Desktop",Safari,NDF
+354,2010-04-05,NULL,FEMALE,60,basic,en,"Windows Desktop",Firefox,NDF
+355,2010-04-05,2010-04-05,FEMALE,65,basic,en,"Windows Desktop",Firefox,US
+356,2010-04-05,2010-04-05,-unknown-,31,basic,en,Other/Unknown,-unknown-,ES
+357,2010-04-05,NULL,-unknown-,30,basic,en,Other/Unknown,-unknown-,NDF
+358,2010-12-23,2010-04-06,MALE,38,basic,en,"Mac Desktop",Firefox,US
+359,2010-04-05,2010-04-05,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+360,2010-04-05,2010-05-05,FEMALE,65,basic,en,"Mac Desktop",Safari,US
+361,2010-04-05,2010-04-17,FEMALE,44,basic,en,"Mac Desktop",Safari,US
+362,2010-04-05,2010-04-09,-unknown-,NULL,basic,en,iPad,"Mobile Safari",US
+363,2010-04-05,2010-04-06,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+364,2010-04-05,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+365,2010-04-05,NULL,-unknown-,36,basic,en,Other/Unknown,-unknown-,NDF
+366,2011-03-28,2010-04-15,FEMALE,44,basic,en,"Mac Desktop",Firefox,US
+367,2010-04-06,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+368,2010-04-06,2010-04-09,MALE,37,facebook,en,"Mac Desktop",Safari,US
+369,2010-04-06,2010-04-06,-unknown-,NULL,basic,en,"Windows Desktop",IE,US
+370,2010-04-06,2010-04-08,FEMALE,73,basic,en,"Mac Desktop",Safari,US
+371,2010-04-07,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+372,2010-04-07,2010-04-12,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+373,2010-04-07,NULL,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,NDF
+374,2010-04-07,NULL,MALE,NULL,basic,en,iPhone,-unknown-,NDF
+375,2010-04-07,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+376,2010-04-07,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+377,2010-04-08,NULL,-unknown-,31,basic,en,"Windows Desktop",IE,NDF
+378,2010-04-08,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+379,2010-04-09,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+380,2010-04-09,NULL,FEMALE,45,basic,en,"Windows Desktop",IE,NDF
+381,2010-04-09,2010-04-10,-unknown-,38,basic,en,"Mac Desktop",Chrome,US
+382,2010-04-09,NULL,MALE,37,basic,en,"Mac Desktop",Safari,NDF
+383,2010-04-09,2010-04-18,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+384,2010-04-09,2010-04-13,FEMALE,29,basic,en,"Mac Desktop",Safari,US
+385,2010-04-10,2010-04-10,MALE,36,basic,en,"Mac Desktop",Chrome,US
+386,2010-04-10,2010-04-10,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+387,2010-04-10,2010-04-11,-unknown-,30,facebook,en,iPad,"Mobile Safari",US
+388,2010-04-10,2010-09-20,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,US
+389,2010-04-11,2010-04-13,-unknown-,2014,basic,en,"Windows Desktop",Firefox,FR
+390,2010-04-12,NULL,-unknown-,35,basic,en,Other/Unknown,-unknown-,NDF
+391,2010-04-12,2010-04-13,FEMALE,36,facebook,en,"Mac Desktop",Chrome,FR
+392,2010-04-12,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+393,2010-04-12,2010-04-13,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,US
+394,2010-04-12,2010-04-12,FEMALE,32,basic,en,"Mac Desktop",Safari,US
+395,2010-04-12,2010-04-19,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+396,2010-04-12,2010-04-12,FEMALE,36,facebook,en,"Mac Desktop",Safari,US
+397,2010-04-12,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+398,2010-04-12,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+399,2010-04-12,2010-04-12,FEMALE,104,facebook,en,iPhone,"Mobile Safari",FR
+400,2010-04-13,2010-04-23,FEMALE,33,facebook,en,"Mac Desktop",Chrome,US
+401,2010-04-13,NULL,-unknown-,33,basic,en,Other/Unknown,-unknown-,NDF
+402,2010-04-13,2010-05-07,MALE,54,facebook,en,iPad,"Mobile Safari",CA
+403,2010-04-13,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+404,2010-04-13,2010-04-18,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+405,2010-04-13,NULL,FEMALE,35,facebook,en,"Windows Desktop",Chrome,NDF
+406,2010-04-13,2011-02-10,MALE,31,basic,en,"Mac Desktop",Firefox,US
+407,2010-04-13,NULL,FEMALE,64,basic,en,"Mac Desktop",Safari,NDF
+408,2010-04-14,2010-04-15,FEMALE,37,basic,en,"Android Phone",-unknown-,US
+409,2010-04-14,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+410,2010-04-14,NULL,-unknown-,49,basic,en,Other/Unknown,-unknown-,NDF
+411,2010-11-16,2011-05-04,FEMALE,31,basic,en,"Windows Desktop",Firefox,US
+412,2010-04-14,NULL,FEMALE,28,basic,en,"Android Phone","Chrome Mobile",NDF
+413,2010-04-14,2010-04-15,-unknown-,28,basic,en,"Mac Desktop",Safari,US
+414,2010-04-15,2010-04-15,FEMALE,42,basic,en,"Windows Desktop",IE,US
+415,2010-04-15,NULL,MALE,30,facebook,en,"Android Phone",-unknown-,NDF
+416,2010-04-15,2010-04-15,-unknown-,34,basic,en,"Windows Desktop",Chrome,US
+417,2010-04-15,NULL,FEMALE,36,facebook,en,"Mac Desktop",Safari,NDF
+418,2010-04-16,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+419,2010-04-16,NULL,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,NDF
+420,2010-04-17,NULL,-unknown-,55,basic,en,"Mac Desktop",Firefox,NDF
+421,2010-04-17,2010-04-23,-unknown-,50,basic,en,"Windows Desktop",Firefox,US
+422,2010-04-17,2010-04-17,-unknown-,73,basic,en,Other/Unknown,-unknown-,US
+423,2014-01-15,2014-01-15,OTHER,45,basic,en,iPhone,"Mobile Safari",US
+424,2010-04-17,2010-04-18,FEMALE,37,basic,en,"Mac Desktop",Safari,US
+425,2010-04-17,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+426,2010-04-18,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+427,2010-04-18,NULL,-unknown-,60,basic,en,"Windows Desktop",Chrome,NDF
+428,2010-04-18,2010-05-10,FEMALE,46,facebook,en,"Mac Desktop",Safari,US
+429,2010-04-18,2010-04-19,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,CA
+430,2010-04-19,NULL,-unknown-,NULL,basic,en,"Android Tablet",Chrome,NDF
+431,2010-04-19,2010-10-11,-unknown-,39,basic,en,"Mac Desktop",Firefox,US
+432,2010-04-19,NULL,FEMALE,59,facebook,en,"Mac Desktop",Chrome,NDF
+433,2010-04-20,2010-05-07,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",ES
+434,2010-04-20,2010-04-22,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,ES
+435,2010-04-20,2010-04-20,FEMALE,28,basic,en,"Mac Desktop",Firefox,US
+436,2010-04-21,2010-04-22,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,US
+437,2010-04-21,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+438,2010-04-21,2010-04-24,-unknown-,NULL,facebook,en,"Mac Desktop",Safari,US
+439,2010-04-21,2011-04-04,FEMALE,NULL,basic,en,"Mac Desktop",Safari,GB
+440,2010-04-21,2010-04-22,FEMALE,35,facebook,en,"Windows Desktop",Chrome,US
+441,2010-04-21,2010-04-22,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+442,2010-04-21,NULL,-unknown-,29,basic,en,Other/Unknown,-unknown-,NDF
+443,2010-04-22,2010-04-22,FEMALE,19,facebook,en,"Windows Desktop",Firefox,US
+444,2010-04-22,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+445,2010-04-22,NULL,-unknown-,38,basic,en,Other/Unknown,-unknown-,NDF
+446,2010-04-22,NULL,-unknown-,41,basic,en,iPad,"Mobile Safari",NDF
+447,2010-04-22,NULL,FEMALE,31,basic,en,iPhone,"Mobile Safari",NDF
+448,2010-04-22,2010-04-23,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+449,2010-04-23,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+450,2010-04-23,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+451,2010-04-23,2010-06-12,FEMALE,38,basic,en,"Windows Desktop",Chrome,US
+452,2010-04-23,2010-10-05,-unknown-,65,basic,en,"Windows Desktop",IE,US
+453,2010-04-24,2010-04-24,-unknown-,32,basic,en,"Mac Desktop",Chrome,US
+454,2010-04-25,2010-04-28,FEMALE,31,basic,en,Other/Unknown,-unknown-,US
+455,2010-04-25,NULL,FEMALE,31,basic,en,"Windows Desktop",Chrome,NDF
+456,2010-04-25,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+457,2010-04-25,2010-04-29,MALE,NULL,basic,en,"Mac Desktop",Chrome,US
+458,2010-04-25,2010-04-28,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+459,2010-04-25,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+460,2010-04-25,2010-04-25,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+461,2010-04-25,NULL,FEMALE,41,facebook,en,Other/Unknown,-unknown-,NDF
+462,2010-04-26,2010-04-27,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+463,2010-04-26,2010-04-27,-unknown-,42,basic,en,"Mac Desktop",Safari,US
+464,2010-04-26,2010-04-27,MALE,43,facebook,en,"Mac Desktop",Safari,IT
+465,2010-04-26,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+466,2010-04-26,2010-04-26,FEMALE,33,basic,en,iPhone,-unknown-,US
+467,2010-04-26,NULL,-unknown-,61,basic,es,Other/Unknown,-unknown-,NDF
+468,2010-04-27,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+469,2010-04-27,2010-06-01,MALE,31,basic,en,"Mac Desktop",Chrome,NL
+470,2010-04-27,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+471,2010-04-27,NULL,MALE,39,basic,en,"Mac Desktop",Chrome,NDF
+472,2010-04-27,2010-05-07,FEMALE,NULL,basic,fr,"Windows Desktop",Firefox,FR
+473,2010-04-28,NULL,FEMALE,55,facebook,en,"Mac Desktop",Safari,NDF
+474,2010-04-28,NULL,MALE,38,basic,en,"Mac Desktop",Chrome,NDF
+475,2010-04-28,2010-04-29,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,CA
+476,2010-04-28,NULL,FEMALE,43,facebook,en,"Mac Desktop",Firefox,NDF
+477,2010-04-28,2010-04-28,-unknown-,NULL,basic,en,iPhone,-unknown-,US
+478,2010-04-28,2010-04-29,FEMALE,36,basic,en,iPhone,-unknown-,US
+479,2010-04-28,2010-05-05,FEMALE,41,basic,en,iPad,"Mobile Safari",US
+480,2010-04-29,2010-04-30,MALE,35,basic,en,"Mac Desktop",Safari,US
+481,2010-04-29,2010-05-05,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,FR
+482,2010-04-29,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+483,2010-04-29,2010-04-29,FEMALE,5,facebook,en,"Mac Desktop",Safari,IT
+484,2010-04-29,2010-04-30,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+485,2010-04-29,2010-07-19,MALE,30,facebook,en,"Mac Desktop",Chrome,ES
+486,2010-04-29,2010-05-02,MALE,35,basic,en,iPhone,-unknown-,US
+487,2010-04-29,2010-05-01,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,US
+488,2010-04-30,2010-05-01,MALE,30,basic,en,iPad,"Mobile Safari",US
+489,2010-04-30,2010-05-01,FEMALE,35,facebook,en,Other/Unknown,-unknown-,US
+490,2010-04-30,2010-10-05,MALE,55,basic,en,"Mac Desktop",Chrome,US
+491,2010-04-30,2010-05-08,MALE,33,basic,en,"Mac Desktop",Chrome,FR
+492,2010-04-30,NULL,MALE,38,basic,en,"Windows Desktop",Chrome,NDF
+493,2010-04-30,2010-05-04,FEMALE,NULL,basic,en,"Mac Desktop",Safari,FR
+494,2010-04-30,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+495,2010-05-01,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+496,2010-05-01,NULL,-unknown-,30,basic,en,Other/Unknown,-unknown-,NDF
+497,2010-05-01,2010-05-01,MALE,38,facebook,en,"Windows Desktop",Chrome,FR
+498,2010-05-01,2010-05-03,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+499,2010-05-01,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+500,2010-05-01,2010-05-04,FEMALE,36,basic,en,"Mac Desktop",Firefox,IT
+501,2010-05-01,NULL,FEMALE,37,basic,en,"Mac Desktop",Chrome,NDF
+502,2010-05-01,2010-05-08,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+503,2010-05-02,2010-05-02,MALE,33,basic,en,"Mac Desktop",Safari,US
+504,2010-05-02,2010-05-02,FEMALE,33,facebook,en,"Mac Desktop",Safari,US
+505,2010-05-02,2010-05-02,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+506,2010-05-02,2010-05-02,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+507,2010-05-02,2010-05-03,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+508,2010-05-02,2010-05-03,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+509,2010-05-02,2010-05-07,MALE,66,basic,en,"Mac Desktop",Firefox,FR
+510,2010-05-02,2010-05-08,MALE,42,basic,en,"Mac Desktop",Chrome,US
+511,2010-05-03,2010-05-05,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+512,2010-05-03,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+513,2010-05-03,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+514,2010-05-03,2010-05-11,-unknown-,43,basic,en,Other/Unknown,-unknown-,US
+515,2010-05-03,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+516,2010-05-03,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+517,2010-05-03,2010-05-04,-unknown-,37,facebook,en,"Mac Desktop",Safari,FR
+518,2010-05-03,2010-05-19,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+519,2010-05-04,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+520,2010-05-04,2010-05-27,FEMALE,37,basic,en,"Mac Desktop",Chrome,US
+521,2010-05-04,NULL,MALE,40,facebook,en,"Windows Desktop",IE,NDF
+522,2010-05-04,2010-05-04,MALE,43,facebook,en,"Mac Desktop",Safari,US
+523,2010-05-04,2010-05-04,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,US
+524,2010-05-04,2010-05-08,FEMALE,41,basic,en,"Windows Desktop",Chrome,US
+525,2010-05-05,2010-05-12,-unknown-,57,basic,en,"Mac Desktop",Safari,US
+526,2010-05-05,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,NDF
+527,2010-05-05,2010-06-18,FEMALE,51,basic,en,"Windows Desktop",Chrome,US
+528,2010-05-05,NULL,-unknown-,34,basic,en,Other/Unknown,-unknown-,NDF
+529,2010-05-05,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+530,2010-05-05,2010-05-05,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,IT
+531,2010-05-05,2011-04-25,MALE,32,basic,en,iPad,"Mobile Safari",US
+532,2010-05-05,2010-05-06,FEMALE,34,basic,en,"Windows Desktop",Chrome,US
+533,2010-05-06,2010-05-14,-unknown-,69,facebook,en,"Windows Desktop",IE,US
+534,2010-05-06,2010-05-20,-unknown-,29,basic,en,"Windows Desktop",Chrome,US
+535,2010-05-06,2010-05-07,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,other
+536,2010-05-06,2010-05-15,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+537,2010-05-06,NULL,FEMALE,26,basic,en,iPad,"Mobile Safari",NDF
+538,2010-05-07,2010-05-08,-unknown-,31,basic,en,Other/Unknown,-unknown-,US
+539,2010-05-07,NULL,FEMALE,53,facebook,en,"Windows Desktop","AOL Explorer",NDF
+540,2010-05-07,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+541,2010-05-07,NULL,FEMALE,29,basic,en,"Mac Desktop",Chrome,NDF
+542,2010-05-07,NULL,MALE,29,facebook,en,"Mac Desktop",Safari,NDF
+543,2010-05-07,2010-07-03,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+544,2010-05-07,2010-05-11,-unknown-,69,basic,en,"Mac Desktop",Firefox,US
+545,2010-05-08,2010-06-08,-unknown-,43,basic,en,"Windows Desktop",IE,US
+546,2010-05-08,2010-05-17,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+547,2010-05-08,2010-05-10,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+548,2010-05-08,2010-05-09,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+549,2010-05-08,NULL,FEMALE,NULL,facebook,en,"Mac Desktop",Safari,NDF
+550,2010-05-08,2010-06-26,-unknown-,51,basic,en,"Mac Desktop",Chrome,ES
+551,2010-05-08,2010-05-11,-unknown-,54,basic,en,"Mac Desktop",Chrome,CA
+552,2010-05-08,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+553,2010-05-09,NULL,-unknown-,36,facebook,en,Other/Unknown,-unknown-,NDF
+554,2010-05-09,2010-05-15,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,FR
+555,2010-05-09,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+556,2010-05-09,NULL,FEMALE,35,facebook,en,"Windows Desktop",IE,NDF
+557,2010-05-10,2010-05-12,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+558,2010-05-10,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+559,2010-05-10,2010-05-11,FEMALE,42,basic,en,"Mac Desktop",Chrome,US
+560,2010-05-10,2010-05-12,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,ES
+561,2010-05-10,2010-05-13,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,CA
+562,2010-05-10,2010-05-11,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+563,2010-05-11,2010-05-11,MALE,30,facebook,en,"Windows Desktop",Chrome,US
+564,2010-05-11,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+565,2010-05-11,NULL,FEMALE,37,facebook,en,"Mac Desktop",Chrome,NDF
+566,2010-05-11,NULL,FEMALE,NULL,basic,en,Other/Unknown,-unknown-,NDF
+567,2010-05-11,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+568,2010-05-11,2010-05-11,-unknown-,NULL,basic,en,"Windows Desktop",IE,US
+569,2010-05-11,2010-05-11,MALE,45,facebook,en,Other/Unknown,-unknown-,US
+570,2010-05-11,2010-05-15,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,US
+571,2010-05-11,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+572,2010-05-11,2010-05-14,-unknown-,28,basic,en,"Windows Desktop",Firefox,US
+573,2010-05-12,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+574,2010-05-12,NULL,FEMALE,54,basic,en,"Mac Desktop",Firefox,NDF
+575,2010-05-12,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+576,2010-05-12,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+577,2010-05-12,2010-05-15,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+578,2010-05-12,NULL,FEMALE,35,facebook,en,iPhone,-unknown-,NDF
+579,2010-05-12,2010-05-12,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+580,2010-05-12,2010-06-17,MALE,35,facebook,en,"Mac Desktop",Firefox,US
+581,2010-05-12,2010-05-19,-unknown-,36,facebook,en,"Mac Desktop",Chrome,US
+582,2010-05-12,2010-05-13,FEMALE,39,basic,en,"Mac Desktop",Safari,ES
+583,2010-05-13,NULL,FEMALE,38,facebook,en,iPhone,"Mobile Safari",NDF
+584,2010-05-13,NULL,FEMALE,53,facebook,en,"Mac Desktop",Firefox,NDF
+585,2010-05-13,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+586,2010-05-13,2010-05-18,MALE,33,facebook,en,iPhone,-unknown-,FR
+587,2010-05-13,2010-09-07,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,FR
+588,2010-05-13,2010-05-14,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+589,2010-05-13,2010-05-13,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+590,2010-05-13,2010-05-15,-unknown-,36,basic,en,"Mac Desktop",Chrome,US
+591,2010-05-13,NULL,-unknown-,44,basic,en,Other/Unknown,-unknown-,NDF
+592,2010-05-13,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+593,2010-05-13,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+594,2010-05-13,NULL,MALE,51,basic,en,"Mac Desktop",Firefox,NDF
+595,2010-05-14,NULL,MALE,34,facebook,en,iPhone,-unknown-,NDF
+596,2010-05-14,NULL,FEMALE,26,facebook,en,"Mac Desktop",Firefox,NDF
+597,2010-05-14,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+598,2010-05-14,2010-05-16,FEMALE,35,basic,en,"Windows Desktop",Chrome,US
+599,2010-05-14,NULL,MALE,38,facebook,en,"Mac Desktop",Firefox,NDF
+600,2010-05-20,2010-05-16,FEMALE,34,basic,en,"Android Phone","Chrome Mobile",US
+601,2010-05-14,2010-05-14,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+602,2010-05-14,2010-05-15,-unknown-,41,basic,en,"Mac Desktop",Safari,FR
+603,2010-05-15,2010-05-19,FEMALE,36,facebook,en,Other/Unknown,-unknown-,US
+604,2010-05-15,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+605,2010-05-15,2010-05-16,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+606,2010-05-15,2010-05-15,MALE,51,facebook,en,iPad,"Mobile Safari",US
+607,2010-05-15,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+608,2010-05-15,2010-05-17,-unknown-,33,basic,es,Other/Unknown,-unknown-,US
+609,2010-05-15,NULL,-unknown-,38,basic,en,"Mac Desktop",Safari,NDF
+610,2010-05-16,2010-05-18,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,other
+611,2010-05-16,NULL,MALE,39,basic,en,"Windows Desktop",Chrome,NDF
+612,2010-05-16,2010-06-05,MALE,46,basic,en,iPhone,"Mobile Safari",other
+613,2010-05-16,2010-06-16,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+614,2010-05-16,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+615,2010-05-16,2010-11-01,-unknown-,NULL,facebook,en,Other/Unknown,-unknown-,US
+616,2010-05-16,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,NDF
+617,2010-05-17,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,NDF
+618,2010-05-17,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+619,2010-05-17,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+620,2010-05-17,2010-05-21,MALE,37,facebook,en,"Mac Desktop",Safari,ES
+621,2010-05-17,NULL,-unknown-,NULL,basic,en,iPad,"Chrome Mobile",NDF
+622,2010-05-18,2010-05-22,FEMALE,35,basic,en,"Mac Desktop",Safari,US
+623,2010-05-18,2010-05-18,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+624,2010-05-18,2010-05-19,MALE,35,facebook,en,"Mac Desktop",Chrome,US
+625,2010-05-18,2010-05-19,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+626,2010-05-18,NULL,FEMALE,53,facebook,en,"Windows Desktop",Chrome,NDF
+627,2010-05-18,NULL,FEMALE,31,facebook,en,"Windows Desktop",Chrome,NDF
+628,2010-05-19,2010-06-16,-unknown-,105,basic,en,"Mac Desktop",Safari,FR
+629,2010-05-19,NULL,MALE,39,basic,en,"Windows Desktop",Firefox,NDF
+630,2010-05-19,2010-05-21,FEMALE,57,basic,en,"Windows Desktop",IE,US
+631,2010-05-19,2010-05-19,MALE,68,basic,en,"Windows Desktop",IE,CA
+632,2010-05-19,2010-05-20,FEMALE,35,basic,en,iPhone,"Mobile Safari",FR
+633,2010-05-19,2010-05-26,MALE,28,facebook,en,"Windows Desktop",Firefox,US
+634,2010-05-19,2010-08-04,MALE,35,basic,en,"Mac Desktop",Safari,US
+635,2010-05-19,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+636,2010-05-19,2010-05-19,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,FR
+637,2010-05-19,2010-05-21,FEMALE,29,basic,en,"Windows Desktop",Chrome,US
+638,2010-05-20,2010-07-05,MALE,33,basic,en,"Mac Desktop",Chrome,US
+639,2010-05-20,2010-05-20,FEMALE,25,facebook,en,"Mac Desktop",Chrome,US
+640,2010-05-20,NULL,-unknown-,32,basic,en,"Windows Desktop",Firefox,NDF
+641,2010-05-20,NULL,-unknown-,32,basic,en,"Mac Desktop",Safari,NDF
+642,2010-05-20,NULL,-unknown-,NULL,basic,en,"Android Phone","Chrome Mobile",NDF
+643,2010-05-20,NULL,-unknown-,5,facebook,en,Other/Unknown,-unknown-,NDF
+644,2010-05-20,NULL,-unknown-,51,facebook,en,Other/Unknown,-unknown-,NDF
+645,2010-05-21,2010-05-23,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",US
+646,2010-05-21,NULL,MALE,95,basic,en,"Mac Desktop",Firefox,NDF
+647,2010-05-21,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+648,2010-05-21,2010-05-21,FEMALE,27,basic,en,"Mac Desktop",Safari,US
+649,2010-05-21,2011-02-07,MALE,31,basic,en,"Mac Desktop",Safari,US
+650,2010-05-22,2010-05-24,MALE,29,basic,en,iPhone,"Mobile Safari",NL
+651,2010-05-22,NULL,-unknown-,64,basic,en,"Mac Desktop",Firefox,NDF
+652,2010-05-22,2010-05-26,-unknown-,29,basic,en,"Mac Desktop",Chrome,US
+653,2010-05-22,2010-05-22,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+654,2010-05-22,NULL,FEMALE,46,facebook,fr,"Windows Desktop",Firefox,NDF
+655,2010-05-22,2010-05-23,-unknown-,34,basic,en,"Mac Desktop",Firefox,US
+656,2010-05-23,NULL,FEMALE,52,basic,en,iPad,"Mobile Safari",NDF
+657,2010-05-23,2010-05-23,-unknown-,26,basic,en,"Mac Desktop",Chrome,FR
+658,2010-05-23,2010-11-12,-unknown-,33,basic,en,"Mac Desktop",Safari,CA
+659,2010-05-23,NULL,-unknown-,35,basic,en,Other/Unknown,-unknown-,NDF
+660,2010-05-24,2010-05-24,FEMALE,49,basic,en,"Mac Desktop",Firefox,US
+661,2010-05-24,NULL,FEMALE,5,facebook,en,"Mac Desktop",Safari,NDF
+662,2010-05-24,2010-05-24,FEMALE,33,basic,en,"Mac Desktop",Firefox,ES
+663,2010-05-24,NULL,-unknown-,37,basic,en,Other/Unknown,-unknown-,NDF
+664,2010-05-24,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+665,2010-05-24,2010-05-27,FEMALE,51,basic,en,iPad,"Mobile Safari",US
+666,2010-05-24,NULL,MALE,33,basic,en,"Mac Desktop",Firefox,NDF
+667,2010-05-24,NULL,-unknown-,43,facebook,en,Other/Unknown,-unknown-,NDF
+668,2010-05-24,2010-06-12,FEMALE,31,facebook,en,"Windows Desktop",Chrome,US
+669,2010-05-24,NULL,MALE,31,facebook,en,"Windows Desktop",Firefox,NDF
+670,2010-05-25,2010-07-07,FEMALE,35,basic,en,"Mac Desktop",Safari,US
+671,2010-05-25,2010-05-29,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+672,2010-05-25,2010-05-26,MALE,29,basic,en,"Mac Desktop",Chrome,US
+673,2010-05-25,2010-05-25,FEMALE,47,basic,en,"Windows Desktop",Firefox,FR
+674,2010-05-25,NULL,FEMALE,2014,basic,en,"Mac Desktop",Safari,NDF
+675,2010-05-25,2010-05-26,MALE,38,basic,en,"Mac Desktop",Chrome,FR
+676,2010-05-25,2010-05-26,FEMALE,29,basic,en,"Mac Desktop",Firefox,US
+677,2010-05-25,NULL,FEMALE,38,basic,en,"Windows Desktop",Firefox,NDF
+678,2010-05-25,2010-06-04,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+679,2010-05-26,2010-06-03,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+680,2010-05-26,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+681,2010-05-26,NULL,FEMALE,49,facebook,en,"Mac Desktop",Chrome,NDF
+682,2010-05-26,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+683,2010-05-26,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+684,2010-05-26,2010-06-01,FEMALE,NULL,basic,en,Other/Unknown,"Palm Pre web browser",other
+685,2010-05-26,NULL,FEMALE,26,facebook,en,"Windows Desktop",Chrome,NDF
+686,2010-05-26,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+687,2010-05-26,2010-06-01,FEMALE,38,basic,en,"Windows Desktop",Firefox,US
+688,2010-05-26,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+689,2010-05-27,2010-05-31,MALE,45,basic,en,"Windows Desktop",IE,US
+690,2010-05-27,2010-05-27,-unknown-,36,basic,en,"Mac Desktop",Firefox,US
+691,2010-05-27,2010-06-23,-unknown-,35,basic,en,"Windows Desktop",IE,US
+692,2010-05-27,NULL,MALE,31,facebook,en,"Windows Desktop",Firefox,NDF
+693,2010-05-27,2010-05-27,FEMALE,38,basic,en,"Mac Desktop",Chrome,US
+694,2010-05-27,NULL,FEMALE,28,facebook,en,iPhone,"Chrome Mobile",NDF
+695,2010-05-27,NULL,FEMALE,24,facebook,en,"Android Phone","Chrome Mobile",NDF
+696,2010-05-27,2010-06-08,-unknown-,64,facebook,en,"Mac Desktop",Chrome,GB
+697,2010-05-27,2010-05-27,-unknown-,28,basic,en,"Mac Desktop",Safari,US
+698,2010-05-27,2010-05-28,-unknown-,NULL,basic,en,"Mac Desktop",Safari,IT
+699,2010-05-27,NULL,MALE,36,facebook,en,"Mac Desktop",Chrome,NDF
+700,2010-11-06,NULL,MALE,45,basic,es,"Windows Desktop",Firefox,NDF
+701,2010-05-27,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+702,2010-05-27,2010-05-27,FEMALE,32,facebook,en,"Windows Desktop",Firefox,US
+703,2010-05-27,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+704,2010-05-27,2010-05-30,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+705,2010-05-27,NULL,-unknown-,32,facebook,en,Other/Unknown,-unknown-,NDF
+706,2010-05-27,2010-05-29,FEMALE,32,facebook,en,"Mac Desktop",Chrome,FR
+707,2010-05-27,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+708,2010-05-28,2010-06-06,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,US
+709,2010-05-28,2010-05-28,-unknown-,50,basic,en,Other/Unknown,-unknown-,US
+710,2010-05-28,2010-06-01,-unknown-,NULL,basic,de,Other/Unknown,-unknown-,US
+711,2014-05-23,NULL,FEMALE,39,basic,en,"Mac Desktop",Safari,NDF
+712,2010-05-28,NULL,-unknown-,NULL,basic,en,"Android Phone",-unknown-,NDF
+713,2010-05-28,2010-05-28,FEMALE,45,facebook,en,"Mac Desktop",Chrome,US
+714,2010-05-28,NULL,-unknown-,28,basic,en,Other/Unknown,-unknown-,NDF
+715,2010-05-29,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+716,2010-05-29,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+717,2010-05-30,2010-06-02,MALE,35,facebook,en,iPhone,-unknown-,US
+718,2010-05-30,NULL,-unknown-,39,basic,en,Other/Unknown,-unknown-,NDF
+719,2010-05-31,2010-05-31,-unknown-,68,basic,en,Other/Unknown,-unknown-,US
+720,2010-05-31,2010-06-05,-unknown-,38,facebook,en,"Mac Desktop",Firefox,US
+721,2010-05-31,NULL,-unknown-,NULL,basic,en,"Windows Desktop",IE,NDF
+722,2010-05-31,2010-06-02,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+723,2010-06-01,2010-06-04,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+724,2010-06-01,2010-06-01,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+725,2010-06-01,NULL,FEMALE,27,basic,en,iPhone,"Mobile Safari",NDF
+726,2010-06-01,2010-06-12,FEMALE,38,basic,en,"Mac Desktop",Firefox,US
+727,2010-06-01,NULL,FEMALE,30,basic,en,"Windows Desktop",IE,NDF
+728,2010-06-01,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+729,2010-06-01,NULL,MALE,35,facebook,en,iPhone,"Mobile Safari",NDF
+730,2010-06-01,2010-06-02,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,US
+731,2010-06-02,NULL,-unknown-,29,basic,en,Other/Unknown,-unknown-,NDF
+732,2010-06-02,NULL,MALE,38,facebook,en,"Mac Desktop",Safari,NDF
+733,2010-06-02,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+734,2010-06-02,2011-05-30,MALE,53,facebook,en,"Windows Desktop",Chrome,US
+735,2010-06-02,NULL,FEMALE,35,basic,en,"Mac Desktop",Chrome,NDF
+736,2010-06-02,2010-06-04,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+737,2010-06-02,2010-06-03,FEMALE,48,basic,en,"Mac Desktop",Safari,other
+738,2010-06-02,2010-06-05,-unknown-,26,basic,en,Other/Unknown,-unknown-,US
+739,2010-06-03,2010-06-03,MALE,39,basic,en,"Mac Desktop",Firefox,ES
+740,2010-06-03,2010-06-06,MALE,30,basic,en,"Mac Desktop",Chrome,US
+741,2010-06-03,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+742,2010-06-03,2010-06-03,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+743,2010-06-03,2010-06-08,FEMALE,18,facebook,en,"Windows Desktop",Firefox,US
+744,2010-06-03,2010-06-07,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+745,2010-06-03,2010-06-03,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,US
+746,2010-06-03,2010-06-04,-unknown-,52,basic,en,"Mac Desktop",Safari,US
+747,2010-06-03,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+748,2010-06-03,2010-06-03,-unknown-,35,facebook,en,Other/Unknown,-unknown-,US
+749,2010-06-03,NULL,FEMALE,NULL,basic,en,"Mac Desktop",Safari,NDF
+750,2010-06-03,2010-06-04,-unknown-,19,basic,en,"Windows Desktop",Firefox,CA
+751,2010-06-04,NULL,FEMALE,34,basic,en,"Mac Desktop",Safari,NDF
+752,2010-06-04,NULL,FEMALE,37,facebook,en,Other/Unknown,-unknown-,NDF
+753,2010-06-04,2010-07-24,MALE,31,basic,en,"Mac Desktop",Chrome,US
+754,2010-06-04,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+755,2010-06-04,NULL,FEMALE,44,basic,en,Other/Unknown,-unknown-,NDF
+756,2010-06-04,2010-06-04,-unknown-,35,facebook,en,Other/Unknown,-unknown-,US
+757,2010-06-04,2010-06-05,-unknown-,45,facebook,en,"Mac Desktop",Chrome,US
+758,2010-06-04,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,NDF
+759,2010-06-04,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+760,2010-06-05,NULL,MALE,44,basic,en,"Windows Desktop",Firefox,NDF
+761,2010-06-05,2010-07-29,FEMALE,33,basic,en,"Mac Desktop",Chrome,US
+762,2010-06-05,2010-06-12,MALE,32,basic,en,"Mac Desktop",Chrome,other
+763,2010-06-05,NULL,-unknown-,63,basic,en,Other/Unknown,-unknown-,NDF
+764,2010-06-05,NULL,FEMALE,43,basic,en,iPad,"Mobile Safari",NDF
+765,2010-06-05,2010-06-07,-unknown-,46,facebook,en,"Mac Desktop",Firefox,US
+766,2010-06-06,2010-06-06,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+767,2010-06-06,2010-06-07,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+768,2010-06-06,2010-06-07,-unknown-,NULL,facebook,en,"Windows Desktop",Chrome,US
+769,2010-06-06,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+770,2010-06-06,2010-06-07,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,other
+771,2010-06-06,2010-06-07,-unknown-,58,basic,en,Other/Unknown,-unknown-,US
+772,2010-06-06,NULL,-unknown-,35,basic,en,"Windows Desktop",Chrome,NDF
+773,2010-06-07,2010-06-11,FEMALE,51,facebook,en,"Mac Desktop",Chrome,US
+774,2010-06-07,NULL,FEMALE,42,facebook,en,"Mac Desktop",Chrome,NDF
+775,2010-06-07,NULL,MALE,36,facebook,en,"Android Tablet",IE,NDF
+776,2010-06-07,2011-05-17,FEMALE,34,facebook,en,"Mac Desktop",Chrome,US
+777,2010-06-07,NULL,MALE,5,facebook,en,"Mac Desktop",Safari,NDF
+778,2010-06-07,NULL,FEMALE,94,basic,en,"Mac Desktop",Safari,NDF
+779,2010-06-07,NULL,-unknown-,46,basic,en,Other/Unknown,-unknown-,NDF
+780,2010-06-07,2011-06-07,-unknown-,31,basic,en,iPhone,-unknown-,US
+781,2010-06-07,NULL,-unknown-,5,basic,fr,iPhone,"Mobile Safari",NDF
+782,2010-06-07,NULL,MALE,5,facebook,en,"Windows Desktop",IE,NDF
+783,2010-06-08,NULL,-unknown-,35,facebook,en,Other/Unknown,-unknown-,NDF
+784,2010-06-08,NULL,FEMALE,35,basic,en,"Mac Desktop",Safari,NDF
+785,2010-06-08,NULL,FEMALE,NULL,basic,en,iPad,"Mobile Safari",NDF
+786,2010-06-09,2011-06-08,-unknown-,19,basic,en,"Mac Desktop",Firefox,CA
+787,2010-06-09,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+788,2010-06-09,2010-06-12,MALE,30,facebook,en,"Mac Desktop",Chrome,US
+789,2010-06-09,NULL,-unknown-,NULL,basic,en,"Android Phone","Chrome Mobile",NDF
+790,2010-06-09,2010-07-02,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+791,2010-06-09,NULL,FEMALE,31,facebook,en,"Windows Desktop",Chrome,NDF
+792,2010-06-10,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+793,2010-06-10,NULL,MALE,64,facebook,en,iPhone,"Mobile Safari",NDF
+794,2010-06-10,2010-06-14,-unknown-,29,basic,en,"Mac Desktop",Safari,US
+795,2010-06-10,2010-10-04,FEMALE,45,basic,en,iPhone,"Mobile Safari",US
+796,2010-06-10,2010-06-10,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,FR
+797,2010-06-10,2010-06-15,FEMALE,37,basic,en,"Mac Desktop",Chrome,US
+798,2010-06-10,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+799,2010-06-10,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+800,2010-06-10,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+801,2010-06-11,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+802,2010-06-11,NULL,MALE,31,facebook,en,"Mac Desktop",Chrome,NDF
+803,2010-06-11,2010-07-30,FEMALE,35,basic,en,"Mac Desktop",Safari,DE
+804,2010-06-11,NULL,MALE,37,basic,en,Other/Unknown,-unknown-,NDF
+805,2010-06-11,NULL,MALE,NULL,facebook,en,"Mac Desktop",Firefox,NDF
+806,2010-06-11,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+807,2010-06-12,2010-07-11,-unknown-,NULL,basic,en,"Mac Desktop",Safari,CA
+808,2010-06-12,NULL,-unknown-,19,basic,en,"Windows Desktop",Chrome,NDF
+809,2010-06-13,2010-06-17,FEMALE,44,basic,en,"Mac Desktop",Safari,US
+810,2010-06-13,2010-06-13,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+811,2010-06-13,2010-06-13,-unknown-,36,facebook,en,"Mac Desktop",Safari,US
+812,2010-06-13,2010-06-13,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+813,2010-06-14,2010-06-18,-unknown-,5,facebook,en,"Windows Desktop",IE,US
+814,2010-06-14,2010-06-14,FEMALE,NULL,basic,en,"Mac Desktop",Chrome,US
+815,2010-06-14,NULL,FEMALE,56,basic,en,"Mac Desktop",Safari,NDF
+816,2010-06-14,2010-07-15,-unknown-,26,facebook,en,"Windows Desktop",Chrome,US
+817,2010-06-14,NULL,MALE,5,facebook,en,Other/Unknown,-unknown-,NDF
+818,2010-06-14,2010-06-17,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+819,2010-06-14,NULL,-unknown-,31,basic,en,"Windows Desktop",Chrome,NDF
+820,2010-06-14,2010-06-15,FEMALE,37,facebook,en,"Windows Desktop",Chrome,US
+821,2010-06-15,2010-06-16,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,CA
+822,2010-06-15,2011-04-13,FEMALE,26,basic,en,"Mac Desktop",Safari,US
+823,2010-06-15,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+824,2010-06-15,NULL,-unknown-,25,basic,en,"Mac Desktop",Firefox,NDF
+825,2010-06-15,2010-06-15,-unknown-,18,basic,en,"Mac Desktop",Firefox,CA
+826,2010-06-15,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+827,2010-06-15,NULL,MALE,51,basic,en,"Windows Desktop",IE,NDF
+828,2010-06-15,2010-06-16,FEMALE,30,basic,en,"Mac Desktop",Firefox,US
+829,2010-06-16,2010-06-16,-unknown-,NULL,basic,de,"Mac Desktop",Safari,DE
+830,2010-06-16,2010-07-09,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+831,2010-06-16,2010-07-08,FEMALE,55,basic,en,"Mac Desktop",Safari,US
+832,2010-06-16,2010-06-19,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,ES
+833,2010-06-16,2010-06-16,-unknown-,NULL,basic,en,iPhone,-unknown-,US
+834,2010-06-16,NULL,FEMALE,32,facebook,en,"Windows Desktop",Chrome,NDF
+835,2010-06-16,2010-06-19,-unknown-,NULL,basic,en,"Mac Desktop",Safari,US
+836,2010-06-16,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+837,2010-06-16,NULL,-unknown-,NULL,basic,en,iPhone,"Mobile Safari",NDF
+838,2010-06-16,NULL,FEMALE,5,facebook,en,"Mac Desktop",Chrome,NDF
+839,2010-06-16,2010-06-17,-unknown-,34,basic,en,"Mac Desktop",Firefox,US
+840,2010-06-16,2010-06-20,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,FR
+841,2010-06-16,NULL,-unknown-,NULL,facebook,en,iPhone,"Mobile Safari",NDF
+842,2010-06-17,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+843,2010-06-17,2010-06-17,MALE,30,facebook,en,"Windows Desktop",Chrome,FR
+844,2010-06-17,2010-06-17,MALE,25,basic,en,"Mac Desktop",Chrome,US
+845,2010-06-17,NULL,MALE,32,facebook,en,iPad,"Mobile Safari",NDF
+846,2010-06-17,2010-07-06,MALE,32,basic,en,"Windows Desktop",Firefox,ES
+847,2010-06-17,NULL,FEMALE,46,basic,en,"Mac Desktop",Safari,NDF
+848,2010-06-17,2010-06-20,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+849,2010-06-18,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+850,2010-06-19,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+851,2010-06-19,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+852,2010-06-19,NULL,-unknown-,NULL,facebook,en,"Mac Desktop",Chrome,NDF
+853,2010-06-19,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,NDF
+854,2010-06-19,2010-06-25,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+855,2010-06-19,NULL,MALE,57,basic,en,"Windows Desktop",IE,NDF
+856,2010-06-19,2010-06-22,MALE,5,facebook,en,"Windows Desktop",Chrome,US
+857,2010-06-19,NULL,MALE,34,basic,en,"Windows Desktop",Chrome,NDF
+858,2010-06-20,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+859,2010-06-20,NULL,MALE,47,facebook,en,iPad,"Mobile Safari",NDF
+860,2010-06-20,2010-06-21,MALE,30,basic,en,"Mac Desktop",Chrome,CA
+861,2010-06-20,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+862,2010-06-20,2010-06-20,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+863,2010-06-20,NULL,-unknown-,39,facebook,en,Other/Unknown,-unknown-,NDF
+864,2010-06-20,2010-06-21,FEMALE,NULL,facebook,en,Other/Unknown,-unknown-,US
+865,2010-06-21,2010-06-22,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+866,2010-06-21,2010-06-28,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+867,2010-06-21,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+868,2010-06-21,NULL,FEMALE,39,facebook,en,iPad,"Mobile Safari",NDF
+869,2010-06-21,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+870,2010-06-21,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,NDF
+871,2010-06-22,NULL,-unknown-,40,basic,en,Other/Unknown,-unknown-,NDF
+872,2010-06-22,2010-07-05,MALE,39,facebook,en,"Mac Desktop",Safari,US
+873,2010-06-22,NULL,FEMALE,NULL,facebook,en,"Mac Desktop",Chrome,NDF
+874,2010-06-22,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+875,2010-06-22,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+876,2010-06-22,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,NDF
+877,2010-06-22,NULL,FEMALE,NULL,facebook,en,"Windows Desktop",Firefox,NDF
+878,2010-06-22,2010-06-22,-unknown-,52,basic,en,"Mac Desktop",Safari,US
+879,2010-06-23,2010-06-23,MALE,29,basic,en,iPhone,-unknown-,FR
+880,2010-06-23,2010-06-23,FEMALE,47,facebook,en,"Mac Desktop",Firefox,US
+881,2010-06-23,NULL,FEMALE,5,facebook,en,"Android Phone","Android Browser",NDF
+882,2010-06-23,2010-06-23,FEMALE,49,facebook,en,Other/Unknown,-unknown-,US
+883,2010-06-23,2010-06-23,MALE,NULL,facebook,en,Other/Unknown,-unknown-,other
+884,2010-06-23,NULL,MALE,NULL,facebook,en,"Windows Desktop",Chrome,NDF
+885,2010-06-23,2010-07-31,FEMALE,38,facebook,en,iPad,"Mobile Safari",US
+886,2010-06-23,NULL,FEMALE,NULL,facebook,en,iPad,"Mobile Safari",NDF
+887,2010-06-23,2010-06-25,FEMALE,35,facebook,en,iPhone,-unknown-,US
+888,2010-06-23,NULL,FEMALE,32,facebook,en,iPhone,-unknown-,NDF
+889,2010-06-23,NULL,-unknown-,35,facebook,en,"Windows Desktop",Firefox,NDF
+890,2010-06-23,2010-06-24,FEMALE,30,basic,en,"Mac Desktop",Safari,US
+891,2010-06-24,2010-06-25,MALE,NULL,facebook,en,"Mac Desktop",Firefox,US
+892,2010-06-24,2010-06-25,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+893,2010-06-24,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+894,2010-06-24,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+895,2010-06-24,2010-06-25,FEMALE,34,basic,en,"Windows Desktop",Chrome,FR
+896,2010-06-24,NULL,FEMALE,NULL,facebook,en,iPhone,"Mobile Safari",NDF
+897,2010-06-25,NULL,MALE,51,basic,en,"Windows Desktop",IE,NDF
+898,2012-04-20,2011-05-18,FEMALE,47,facebook,en,"Mac Desktop",Safari,US
+899,2010-06-25,2010-09-22,-unknown-,37,basic,en,"Mac Desktop",Chrome,US
+900,2010-06-25,2010-06-25,MALE,65,basic,en,"Mac Desktop",Firefox,US
+901,2010-06-25,NULL,FEMALE,29,facebook,en,Other/Unknown,Chrome,NDF
+902,2010-06-25,2010-06-25,-unknown-,37,basic,en,Other/Unknown,-unknown-,US
+903,2010-06-25,2010-06-27,FEMALE,49,basic,en,"Mac Desktop",Chrome,DE
+904,2010-06-25,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+905,2010-06-25,2010-06-26,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+906,2010-06-25,2010-06-29,-unknown-,32,basic,en,iPhone,-unknown-,US
+907,2010-06-25,2010-06-26,-unknown-,26,facebook,en,iPhone,-unknown-,IT
+908,2010-06-25,2010-06-29,FEMALE,37,basic,en,"Mac Desktop",Safari,ES
+909,2010-06-26,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+910,2010-06-26,2010-06-27,FEMALE,40,basic,en,iPhone,"Mobile Safari",US
+911,2010-06-27,NULL,FEMALE,51,basic,en,"Windows Desktop",Chrome,NDF
+912,2010-06-27,NULL,FEMALE,5,facebook,en,"Mac Desktop",Safari,NDF
+913,2010-06-27,2010-06-27,-unknown-,67,basic,en,iPad,"Mobile Safari",GB
+914,2010-06-27,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,NDF
+915,2010-06-27,2010-06-28,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,US
+916,2010-06-27,2010-06-28,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,US
+917,2010-06-27,2010-06-29,-unknown-,NULL,basic,en,"Windows Desktop",IE,US
+918,2010-06-28,2010-06-28,MALE,33,basic,en,"Mac Desktop",Firefox,US
+919,2010-06-28,NULL,FEMALE,25,facebook,en,"Mac Desktop",Firefox,NDF
+920,2010-06-28,NULL,FEMALE,28,basic,en,"Android Phone",-unknown-,NDF
+921,2010-06-28,2010-06-29,FEMALE,50,basic,en,"Windows Desktop",Firefox,US
+922,2010-06-28,2010-06-28,FEMALE,5,facebook,en,Other/Unknown,-unknown-,US
+923,2010-06-28,2010-07-06,MALE,38,basic,en,"Mac Desktop",Safari,CA
+924,2010-06-28,NULL,MALE,36,basic,en,"Mac Desktop",Firefox,NDF
+925,2010-06-28,NULL,-unknown-,NULL,facebook,en,"Mac Desktop",Firefox,NDF
+926,2010-06-28,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+927,2010-06-28,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+928,2010-06-29,2010-06-29,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,FR
+929,2010-06-29,NULL,MALE,56,basic,en,"Mac Desktop",Safari,NDF
+930,2010-06-29,NULL,FEMALE,34,basic,en,"Android Phone","Android Browser",NDF
+931,2010-06-29,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+932,2010-06-29,NULL,FEMALE,34,basic,en,"Windows Desktop",IE,NDF
+933,2010-06-29,2010-07-01,-unknown-,29,basic,en,"Mac Desktop",Chrome,US
+934,2011-05-03,2010-06-29,-unknown-,35,basic,en,"Mac Desktop",Safari,US
+935,2010-06-29,2010-08-21,MALE,34,basic,en,"Mac Desktop",Firefox,US
+936,2010-06-29,NULL,FEMALE,5,facebook,en,Other/Unknown,-unknown-,NDF
+937,2010-06-29,NULL,FEMALE,38,basic,en,"Windows Desktop",Chrome,NDF
+938,2010-06-29,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+939,2010-06-29,2010-06-30,FEMALE,32,basic,en,"Windows Desktop",Chrome,US
+940,2010-06-30,NULL,-unknown-,69,basic,en,"Desktop (Other)",Chrome,NDF
+941,2010-06-30,2010-07-06,MALE,NULL,basic,en,"Mac Desktop",Chrome,US
+942,2010-06-30,2010-07-07,-unknown-,27,basic,en,"Windows Desktop",Chrome,US
+943,2010-06-30,2010-07-19,MALE,75,basic,en,"Mac Desktop",Safari,US
+944,2010-06-30,NULL,FEMALE,38,facebook,en,"Windows Desktop",IE,NDF
+945,2010-06-30,2010-07-02,MALE,34,basic,en,"Mac Desktop",Chrome,US
+946,2010-07-01,2010-07-01,FEMALE,67,basic,en,"Windows Desktop",IE,US
+947,2010-07-01,NULL,MALE,39,facebook,en,Other/Unknown,-unknown-,NDF
+948,2010-07-01,2010-07-01,MALE,NULL,facebook,en,Other/Unknown,-unknown-,US
+949,2010-07-01,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,NDF
+950,2010-07-01,NULL,FEMALE,45,facebook,en,"Mac Desktop",Chrome,NDF
+951,2010-07-01,NULL,-unknown-,61,basic,en,Other/Unknown,-unknown-,NDF
+952,2010-07-01,2010-07-02,FEMALE,33,basic,en,"Mac Desktop",Safari,GB
+953,2010-07-01,NULL,MALE,34,facebook,en,"Android Tablet",IE,NDF
+954,2010-07-01,2010-09-05,FEMALE,28,basic,en,"Mac Desktop",Safari,US
+955,2010-07-01,NULL,FEMALE,34,facebook,en,"Mac Desktop",Safari,NDF
+956,2010-07-02,2010-07-02,FEMALE,53,facebook,en,"Mac Desktop",Firefox,FR
+957,2010-07-02,2010-07-06,MALE,29,basic,en,"Windows Desktop",Chrome,US
+958,2010-07-02,2010-07-06,MALE,35,basic,en,"Mac Desktop",Safari,US
+959,2010-07-02,2010-07-02,-unknown-,NULL,basic,en,"Mac Desktop",Chrome,US
+960,2010-07-02,NULL,-unknown-,NULL,basic,en,iPad,"Mobile Safari",NDF
+961,2010-07-02,2010-07-02,MALE,67,basic,en,"Windows Desktop",Firefox,US
+962,2010-07-02,2010-07-02,FEMALE,28,basic,en,"Mac Desktop",Chrome,US
+963,2010-07-02,NULL,FEMALE,49,facebook,en,"Mac Desktop",Chrome,NDF
+964,2010-07-03,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+965,2010-07-03,NULL,-unknown-,39,basic,en,Other/Unknown,-unknown-,NDF
+966,2010-07-03,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+967,2010-07-03,NULL,FEMALE,5,facebook,en,Other/Unknown,-unknown-,NDF
+968,2010-07-04,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+969,2010-07-04,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+970,2010-07-04,2010-07-04,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,CA
+971,2010-07-04,2010-07-22,-unknown-,NULL,basic,en,iPhone,-unknown-,FR
+972,2010-07-04,NULL,-unknown-,40,facebook,en,"Windows Desktop",Chrome,NDF
+973,2010-07-04,NULL,MALE,36,basic,en,"Mac Desktop",Safari,NDF
+974,2010-07-05,2011-05-27,FEMALE,36,basic,es,"Mac Desktop",Safari,US
+975,2010-07-05,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+976,2010-07-05,2010-07-05,FEMALE,35,basic,en,iPhone,-unknown-,US
+977,2010-07-05,NULL,FEMALE,30,basic,en,iPhone,-unknown-,NDF
+978,2010-07-05,NULL,MALE,31,basic,en,Other/Unknown,-unknown-,NDF
+979,2010-07-05,2010-07-08,-unknown-,34,basic,en,"Windows Desktop",Firefox,other
+980,2010-07-05,NULL,MALE,70,basic,en,"Windows Desktop",Firefox,NDF
+981,2010-07-06,2010-07-22,FEMALE,32,basic,en,iPad,"Mobile Safari",FR
+982,2010-07-06,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+983,2010-07-06,NULL,FEMALE,33,basic,en,"Mac Desktop",Firefox,NDF
+984,2010-07-06,NULL,FEMALE,5,facebook,en,iPhone,"Mobile Safari",NDF
+985,2010-07-06,NULL,-unknown-,NULL,basic,en,"Android Phone",-unknown-,NDF
+986,2010-07-06,2010-07-09,FEMALE,39,facebook,en,iPhone,"Mobile Safari",US
+987,2010-07-06,2010-07-06,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,US
+988,2010-07-06,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Firefox,NDF
+989,2010-07-06,NULL,FEMALE,28,basic,en,"Windows Desktop",Chrome,NDF
+990,2010-07-07,2010-07-07,FEMALE,29,basic,en,"Mac Desktop",Chrome,US
+991,2010-07-07,2010-07-11,-unknown-,NULL,basic,en,"Mac Desktop",Firefox,GB
+992,2010-07-07,2010-07-07,FEMALE,38,basic,en,"Mac Desktop",Safari,US
+993,2010-07-07,2010-07-10,FEMALE,26,basic,en,"Mac Desktop",Chrome,US
+994,2010-07-07,2010-07-27,-unknown-,44,basic,en,"Windows Desktop",Firefox,US
+995,2010-07-07,NULL,-unknown-,NULL,basic,en,"Mac Desktop",Safari,NDF
+996,2010-07-07,NULL,-unknown-,NULL,basic,en,"Windows Desktop",Chrome,NDF
+997,2010-07-07,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+998,2010-07-07,NULL,-unknown-,NULL,basic,en,iPhone,-unknown-,NDF
+999,2010-07-08,NULL,-unknown-,NULL,basic,en,Other/Unknown,-unknown-,NDF
+1000,2010-07-08,NULL,MALE,46,facebook,en,Other/Unknown,-unknown-,NDF
